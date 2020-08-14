@@ -9,6 +9,12 @@
       "url": "http://github.com/cadecairos/matterbridge-heroku.git#master"
     }
   ],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
   "env": {
     "MATTERBRIDGE_VERSION": {
        "description": "Version of matterbridge to download and deploy",
