@@ -1,4 +1,4 @@
-[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md)
+[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/main/CONDUCT.md)
 
 # Matterbridge-heroku
 
@@ -36,8 +36,8 @@ Archivers Slack teams.
       build](https://bintray.com/42wim/nightly/Matterbridge/_latestVersion)
       while waiting on the next official release.
   * `DEBUG`. Set to "1" to log all message events across bridges.
-* Auto-deploys `master` branch to our heroku app: `edgi-matterbridge`
-* `master` branch is protected branch, and changes must go through pull
+* Auto-deploys `main` branch to our heroku app: `edgi-matterbridge`
+* `main` branch is protected branch, and changes must go through pull
   request process.
 * Edit channel bridge config via [`config/config-heroku-template.toml`][config].
 
