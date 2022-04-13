@@ -1,6 +1,6 @@
 [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/main/CONDUCT.md)
 
-# Matterbridge-heroku
+# Matterbridge-heroku: banana pepper
 
 This is a fork of [the original
 `matterbridge-heroku`](https://github.com/cadecairos/matterbridge-heroku).
